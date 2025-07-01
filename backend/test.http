@@ -1,0 +1,12 @@
+
+
+POST http://localhost:4000/addproduct
+Content-Type: application/json
+{
+"id":22,
+"name":"Mahesh"   ,
+"old_price":10,
+"new_price":5,
+"category":"kid",
+"image":"hello"
+}
